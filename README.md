@@ -3,8 +3,7 @@
 <body>
 	<h1>Rock Paper Scissors Game</h1>
 	<p>This is a simple rock paper scissors game implemented using Python and the tkinter module. The game allows the user to choose between rock, paper, and scissors and play against the computer. The rules of the game are defined in a dictionary, and the score is kept track of using variables.</p>
-less
-Copy code
+
 <h2>How to Play</h2>
 <ol>
 	<li>Clone or download the repository.</li>
